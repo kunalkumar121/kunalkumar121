@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/kunalkumar121">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F78F07&center=true&vCenter=true&random=false&width=600&height=100&lines=Kunal+Kumar;Full-Stack+Developer;UI%2FUX+Enthusiast;AI+Explorer;Dark+Mode+Advocate" alt="Dynamic Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F78F07&center=true&vCenter=true&random=false&width=600&height=100&lines=Kunal+Kumar;Full-Stack+Developer;UI%2FUX+Enthusiast;AI+Explorer" alt="Dynamic Typing Header" />
   </a>
   
   <div>
@@ -14,17 +14,16 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/kunalkumar121"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/kunalkumar121"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://dev.to/kunalkumar121"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kunal-kumar-02872b258/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/kunalpoddar121"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:kunalkumar121.mitmeerut@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-kunal-dw8h.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F78F07&center=true&vCenter=true&width=600&lines=Builder+of+ProjectOne%2C+ProjectTwo%2C+ProjectThree;Dark+Mode+Lover+%F0%9F%94%AF;JavaScript+%E2%9D%A4%EF%B8%8F+React+%E2%9C%A8+TailwindCSS;Crafting+Exceptional+Digital+Experiences" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F78F07&center=true&vCenter=true&width=600&lines=JavaScript+%E2%9D%A4%EF%B8%8F+React+%E2%9C%A8+TailwindCSS;Crafting+Exceptional+Digital+Experiences" alt="Typing Animation" />
 </div>
 
 <br>
@@ -38,7 +37,7 @@
     <p>🎓 Computer Science enthusiast from India</p>
     <p>🌙 Midnight coder fueled by coffee and coding dreams</p>
     <p>🧠 Obsessed with clean UIs, modern tech & AI integrations</p>
-    <p>💻 Creator of <b>ProjectOne</b>, <b>ProjectTwo</b>, <b>ProjectThree</b></p>
+    <p>💻 Creator of various full-stack web applications</p>
     <p>🔮 Currently exploring: AI APIs, Cloud Technologies & Modern Frameworks</p>
     <p>🎯 Goal: Building tech that solves real problems with style</p>
     <p>🎧 Coding to: Lo-fi beats and electronic music</p>
@@ -116,20 +115,20 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Project One</h3>
+        <h3 align="center">Portfolio Website</h3>
         <div align="center">
-          <a href="https://project-one.vercel.app" target="_blank">
-            <img src="https://img.icons8.com/fluency/96/000000/web.png" width="80" alt="Project One"/>
+          <a href="https://portfolio-kunal-dw8h.vercel.app/" target="_blank">
+            <img src="https://img.icons8.com/fluency/96/000000/web.png" width="80" alt="Portfolio Website"/>
           </a>
         </div>
         <p align="center">
-          Modern web application with immersive dark mode UI
+          Modern responsive portfolio with dark mode and smooth animations
           <br>
           <br>
-          <a href="https://github.com/kunalkumar121/project-one">
+          <a href="https://github.com/kunalkumar121/portfolio">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://project-one.vercel.app">
+          <a href="https://portfolio-kunal-dw8h.vercel.app/">
             <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
@@ -140,77 +139,77 @@
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Project Two</h3>
+        <h3 align="center">E-Commerce Platform</h3>
         <div align="center">
-          <a href="https://project-two.vercel.app" target="_blank">
-            <img src="https://img.icons8.com/fluency/96/000000/mobile-app.png" width="80" alt="Project Two"/>
+          <a href="https://github.com/kunalkumar121/ecommerce-app" target="_blank">
+            <img src="https://img.icons8.com/fluency/96/000000/shopping-cart.png" width="80" alt="E-Commerce App"/>
           </a>
         </div>
         <p align="center">
-          Premium mobile application with advanced features
+          Full-featured online store with payment integration
           <br>
           <br>
-          <a href="https://github.com/kunalkumar121/project-two">
+          <a href="https://github.com/kunalkumar121/ecommerce-app">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://project-two.vercel.app">
+          <a href="https://ecommerce-app-kunal.vercel.app">
             <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
         <p align="center">
-          <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">Project Three</h3>
+        <h3 align="center">AI Content Generator</h3>
         <div align="center">
-          <a href="https://project-three.vercel.app" target="_blank">
-            <img src="https://img.icons8.com/fluency/96/000000/data-protection.png" width="80" alt="Project Three"/>
+          <a href="https://github.com/kunalkumar121/ai-content-generator" target="_blank">
+            <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80" alt="AI Content Generator"/>
           </a>
         </div>
         <p align="center">
-          Secure data management platform for businesses
+          AI-powered application for generating marketing content
           <br>
           <br>
-          <a href="https://github.com/kunalkumar121/project-three">
+          <a href="https://github.com/kunalkumar121/ai-content-generator">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://project-three.vercel.app">
+          <a href="https://ai-content-generator-kk.vercel.app">
             <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
         <p align="center">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Project Four</h3>
+        <h3 align="center">Task Management App</h3>
         <div align="center">
-          <a href="https://project-four.vercel.app" target="_blank">
-            <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80" alt="Project Four"/>
+          <a href="https://github.com/kunalkumar121/task-manager" target="_blank">
+            <img src="https://img.icons8.com/fluency/96/000000/task.png" width="80" alt="Task Manager"/>
           </a>
         </div>
         <p align="center">
-          AI-powered application with machine learning features
+          Collaborative task management with real-time updates
           <br>
           <br>
-          <a href="https://github.com/kunalkumar121/project-four">
+          <a href="https://github.com/kunalkumar121/task-manager">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://project-four.vercel.app">
+          <a href="https://task-manager-kunal.vercel.app">
             <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
         <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
         </p>
       </td>
     </tr>
@@ -219,41 +218,39 @@
 
 <br>
 
-<h2 align="center">🏆 Achievements & GitHub Metrics</h2>
+<h2 align="center">🤝 Open Source Contributions</h2>
 
 <div align="center">
-  <a href="https://github.com/kunalkumar121/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunalkumar121&repo=project-one&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
-  </a>
-  <a href="https://github.com/kunalkumar121/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunalkumar121&repo=project-two&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
-  </a>
-  <a href="https://github.com/kunalkumar121/project-three">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunalkumar121&repo=project-three&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
-  </a>
-  <a href="https://github.com/kunalkumar121/project-four">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunalkumar121&repo=project-four&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>🏅 GitHub Badges & Achievements</h2>
+  <p>I actively contribute to open source projects and believe in the power of collaborative development.</p>
   
-  <div>
-    <img src="https://img.shields.io/badge/🏆_Code_Committer-success?style=for-the-badge&cacheSeconds=300" alt="Code Committer" />
-    <img src="https://img.shields.io/badge/🚀_Project_Creator-blueviolet?style=for-the-badge&cacheSeconds=300" alt="Project Creator" />
-    <img src="https://img.shields.io/badge/💻_Developer-blue?style=for-the-badge&cacheSeconds=300" alt="Developer" />
-    <img src="https://img.shields.io/badge/⭐_Star_Earner-yellow?style=for-the-badge&cacheSeconds=300" alt="Star Earner" />
-    <img src="https://img.shields.io/badge/👥_Team_Player-orange?style=for-the-badge&cacheSeconds=300" alt="Team Player" />
-  </div>
-  <br>
-  <div>
-    <img src="https://img.shields.io/badge/Pull_Shark-blue?style=flat-square&logo=github&logoColor=white&cacheSeconds=300" />
-    <img src="https://img.shields.io/badge/Quickdraw-green?style=flat-square&logo=github&logoColor=white&cacheSeconds=300" />
-    <img src="https://img.shields.io/badge/Starstruck-yellow?style=flat-square&logo=github&logoColor=black&cacheSeconds=300" />
-  </div>
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Contribution Type</th>
+      <th>Status</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/open-source-project/repo">Open Source Project 1</a></td>
+      <td>Bug Fix</td>
+      <td>Merged ✅</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/another-project/repo">Open Source Project 2</a></td>
+      <td>Feature Implementation</td>
+      <td>Merged ✅</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/documentation-project/repo">Open Source Project 3</a></td>
+      <td>Documentation</td>
+      <td>Merged ✅</td>
+    </tr>
+  </table>
+  
+  <p>
+    <strong>Hacktoberfest Participant:</strong> Successfully completed Hacktoberfest with 4+ quality contributions
+  </p>
+  
+  <img src="https://img.shields.io/badge/Hacktoberfest-Completed-success?style=for-the-badge&logo=digitalocean" alt="Hacktoberfest Badge" />
 </div>
 
 <br>
@@ -294,11 +291,10 @@
   <p>I'm always open to interesting conversations, collaborations, or project opportunities.</p>
   
   <div>
-    <a href="https://linkedin.com/in/kunalkumar121"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://twitter.com/kunalkumar121"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="https://dev.to/kunalkumar121"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/kunal-kumar-02872b258/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://x.com/kunalpoddar121"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="mailto:kunalkumar121.mitmeerut@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://portfolio-kunal-dw8h.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   </div>
   
   <h3>Support My Work</h3>
